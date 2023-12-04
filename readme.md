@@ -1,5 +1,4 @@
-# Rock :fist: Paper :raised_hand: Scissors :crossed_fingers:
-
+# Rock 👊 Paper ✋ Scissors :v:
 
 
 
