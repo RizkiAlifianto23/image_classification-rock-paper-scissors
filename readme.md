@@ -1,17 +1,5 @@
 # Rock 👊 Paper ✋ Scissors :v:
+This is the last project in a series of machine learning from beginners from dicoding. In this project I did a classification of images guessing pieces of paper using a neural network simulation program using tensorflow datasets that I use can be seen on this link https://github.com/dicodingacademy/assets/releases/download/ralease/rockpaperscissors.zip
 
 
-
-## Setup environment
-```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-```
-
-## Run steamlit app
-```
-streamlit run dashboard.py
-```
-## Screenshot
 
